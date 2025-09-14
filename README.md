@@ -1,7 +1,7 @@
 # Sales Prediction Using Python
 
 Click on the following links to checkout the colab file & video presentation.
-- [Colab](https://colab.research.google.com/drive/1O0xHNJKj5KffEG1OxPkqyHGO0tKVCx1Z#scrollTo=vncDsAP0Gaoa)
+- [Colab](https://colab.research.google.com/drive/15VO8swX0AgT6uG0zuIadhKob-GPs9Yv-#scrollTo=beRrZCGUAJYm)
 
 
 
